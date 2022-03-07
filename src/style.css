@@ -91,7 +91,7 @@ p {
   color: var(--primary-color);
   font-size: 28px;
   text-decoration: none;
-  margin-bottom: 600px;
+  margin-bottom: 200px;
 }
 
 .email-link:hover {
