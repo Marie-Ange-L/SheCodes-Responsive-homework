@@ -34,6 +34,10 @@ p {
   text-align: center;
 }
 
+.title-small {
+  font-size: 48px;
+}
+
 .navigation-links {
   display: flex;
   margin-top: 40px;
